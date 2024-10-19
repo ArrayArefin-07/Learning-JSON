@@ -1,63 +1,62 @@
 {
-  "students" : [
-{
-  "name": "Mobasher",
-  "middlename": null,
-  "age" : 24,
-  "cgpa" : 2.88,
-  "isRegistered" : true,
-  "languages" : ["Bengali", "English", "Hindi"],
-  "friends" : [
+  "students": [
     {
-      "name": "Wakil",
-      "age" : 24
-    },
-    {
-      "name": "Fahim",
-      "age" : 23
-    }
-  ]
-},
-{
-  "name": "Jawad",
-  "middlename": null,
-  "age" : 24,
-  "cgpa" : 3.88,
-  "isRegistered" : true,
-  "languages" : ["English", "Bengali", "German", "Spanish"],
-  "friends" : [
-    {
-      "name": "Arefin",
-      "age" : 24
-    },
-    {
-      "name": "Wakil",
-      "age" : 23
-    }
-  ]
-},
-{
-  "name": "Wakil",
-  "middlename": null,
-  "age" : 24,
-  "cgpa" : 3.50,
-  "isRegistered" : true,
-  "languages" : ["English", "Bengali", "Urdu", "French"],
-  "friends" : [
-    {
-      "name": "Talha",
-      "age" : 24
+      "name": "Mobasher",
+      "middlename": null,
+      "age": 24,
+      "cgpa": 2.88,
+      "isRegistered": true,
+      "languages": ["Bengali", "English", "Hindi"],
+      "friends": [
+        {
+          "name": "Wakil",
+          "age": 24
+        },
+        {
+          "name": "Fahim",
+          "age": 23
+        }
+      ]
     },
     {
       "name": "Jawad",
-      "age" : 23
+      "middlename": null,
+      "age": 24,
+      "cgpa": 3.88,
+      "isRegistered": true,
+      "languages": ["English", "Bengali", "German", "Spanish"],
+      "friends": [
+        {
+          "name": "Arefin",
+          "age": 24
+        },
+        {
+          "name": "Wakil",
+          "age": 23
+        }
+      ]
     },
     {
-      "name": "Fahim",
-      "age" : 23
+      "name": "Wakil",
+      "middlename": null,
+      "age": 24,
+      "cgpa": 3.5,
+      "isRegistered": true,
+      "languages": ["English", "Bengali", "Urdu", "French"],
+      "friends": [
+        {
+          "name": "Talha",
+          "age": 24
+        },
+        {
+          "name": "Jawad",
+          "age": 23
+        },
+        {
+          "name": "Fahim",
+          "age": 23
+        }
+      ]
     }
   ]
-}
-
-]
 }
