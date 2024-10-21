@@ -10,3 +10,12 @@ const data = require("./friendsData.json");
 
 // delete data.friends[0].name;
 // console.log(data);
+
+const data2 = require("./studentsData.json");
+// console.log(data2.students[2].languages[1])
+
+//looping json Data
+for (x in data2) {
+  // console.log(x);
+  console.log(data2[x]);
+}

@@ -58,5 +58,23 @@
         }
       ]
     }
+  ],
+  "friends": [
+    {
+      "name": "Oakil",
+      "age": 23
+    },
+    {
+      "name": "Fahim",
+      "age": 23
+    },
+    {
+      "name": "Mobasher",
+      "age": 24
+    },
+    {
+      "name": "Arefin",
+      "age": 25
+    }
   ]
 }
